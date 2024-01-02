@@ -1,4 +1,6 @@
 version: '1.0'
 services:
   devcontainer:
-    image: mcr.microsoft.com/devcontainers/base:ubuntu
+    build: 
+      context: .
+      dockerfile: Dockerfile
