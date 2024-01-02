@@ -2,3 +2,8 @@ version: '1.0'
 services:
   devcon:
     image: node:lts-alpine3.16
+    tty: true
+    volumes:
+      - ./project:/project
+    ports:
+      - "8080:8080"
