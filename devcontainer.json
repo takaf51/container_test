@@ -1,5 +1,3 @@
 {
-    "dockerComposeFile": "docker-compose.yml",
-    "service": "devcontainer",
-    "workspaceFolder": "/usr/app"
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
 }
