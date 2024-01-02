@@ -1,4 +1,4 @@
 version: '1.0'
 services:
-  devcontainer:
+  devcon:
     image: mcr.microsoft.com/devcontainers/base:ubuntu
