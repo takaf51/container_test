@@ -1,5 +1,5 @@
 {
 	"name": "Node from Docker File",
-	"dockerFile": "Dockerfile",
+	"dockerFile": "https://raw.githubusercontent.com/takaf51/container_test/main/.devcontainer/Dockerfile.csv",
 	"forwardPorts": [5173]
 }
