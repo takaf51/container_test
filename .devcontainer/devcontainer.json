@@ -1,5 +1,5 @@
 {
 	"name": "Node from Docker File",
-	"dockerFile": "/Dockerfile",
+	"dockerFile": "Dockerfile",
 	"forwardPorts": [5173]
 }
